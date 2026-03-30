@@ -1,24 +1,27 @@
-
+import hussain from '../assets/images/hussin.png';
+import manikanta from '../assets/images/mniknt.png';
+import santosh from '../assets/images/sntosh.png';
+import arunYogesh from '../assets/images/ArunYogesh.png';
 const trainers = [
     {
         name: "Hussain",
         role: "Strength Coach",
-        img: "src/assets/images/hussin.png",
+        img: hussain,
     },
     {
         name: "Manikanta",
         role: "Weight Loss Expert",
-        img: "src/assets/images/mniknt.png",
+        img: manikanta,
     },
     {
         name: "Santosh",
         role: "Hypertrophy Specialist",
-        img: "src/assets/images/sntosh.png",
+        img: santosh,
     },
     {
         name: "Arun Yogesh",
         role: "Strength Coach",
-        img: "src/assets/images/ArunYogesh.png",
+        img: arunYogesh,
     },
 ];
 
